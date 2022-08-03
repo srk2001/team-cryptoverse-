@@ -18,7 +18,7 @@ import {
    useGetCryptoDetailsQuery,
    useGetCryptoHistoryQuery
 } from '../services/cryptoApi'
-import LineChart from './LineChart'
+// import LineChart from './LineChart'
 
 const { Title, Text } = Typography
 const { Option } = Select
