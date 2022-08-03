@@ -47,6 +47,7 @@ const Cryptocurrencies = ({ simplified }) => {
                         extra={
                            <img
                               className="crypto-image"
+                              alt = "cryptoImage"
                               src={currency.iconUrl}
                            />
                         }
